@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Jey</title>
+</head>
+<body>
+
+  <h1>Hi, I'm Jey</h1>
+  <p>21-year-old entrepreneur based between Singapore and Seoul.</p>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png" style="width: 300px">
+
+  <h2>What I do</h2>
+  <p>I run <span style="color: red">GP: My Last Straw</span>, an online GP tuition brand in Singapore.</p>
+
+  <h2>Where I'm based</h2>
+  <p>I split time between <span style="color: #00aaff">Singapore</span> and <span style="color: #ff6600">Seoul</span>.</p>
+
+  <h2>Interests</h2>
+  <p>Biohacking, Korean culture, building systems, and making businesses run without me.</p>
+
+</body>
+</html>
